@@ -38,3 +38,4 @@ Follow [the procedure](http://www.mulesoft.org/documentation/display/current/Imp
 
 * Learn more about configuring an [HTTP Endpoint](http://www.mulesoft.org/documentation/display/current/HTTP+Connector) in Studio.
 * Read about the concept of [flows](http://www.mulesoft.org/documentation/display/current/Mule+Concepts) in Mule.
+
